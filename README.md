@@ -1,0 +1,26 @@
+# Dark Times Skin
+Personal *Skin* build through [FNR Engine](https://github.com/dykeporg/fnr-engine).
+
+## License
+Copyright © 2026 <Gaylien/@dykeporg>
+
+This work is licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License.
+
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-sa/4.0/
+
+You are free to:
+
+- **Share:** copy and redistribute the material in any medium or format
+- **Adapt:** remix, transform, and build upon the material
+
+Under the following terms:
+
+- **Attribution:** You must give appropriate credit, provide a link to the
+  license, and indicate if changes were made.
+- **ShareAlike:** If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license.
+
+No additional restrictions. You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license permits.
